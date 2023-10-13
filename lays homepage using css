@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Lays Home Page</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <header>
+        <div id="logo"><img src="https://c4.wallpaperflare.com/wallpaper/632/100/64/lays-chips-brand-potatoes-wallpaper-preview.jpg" alt="Lays"></div>
+        <nav>
+            <ul>
+                <li><a href="https://lays.com/products">Products</a></li>
+                <li><a href="https://lays.com/recipes">Recipes</a></li>
+                <li><a href="https://lays.com/about-us">About Us</a></li>
+                <li><a href="https://lays.com/where-to-buy">Where to Buy</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="hero">
+        <h1>Discover Flavorful Chips</h1>
+        <p>Explore our wide range of delicious potato chips.</p>
+    </section>
+
+    <section id="products">
+        <h2>Featured Products</h2>
+    </section>
+
+    <section id="recipes">
+        <h2>Recipes</h2>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Lays</p>
+    </footer>
+</body>
+</html>
